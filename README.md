@@ -7,8 +7,7 @@
 <h3>
   
 - 🌱 I'm currently learning computer science and engineering
-- ☀️ Wish to have my Website
-- 🎸 Maybe I should practice my guitar more...
+- ☀️ Wish to be a programmer
 - ☀️ Keep a positive mindset 
 </h3>
 
