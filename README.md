@@ -29,10 +29,15 @@
 
 <br> ☀️ Keep a positive mindset   
 
-
-
 <br/>  
 
+
+### Blog [@Laplace](https://aphrosmeteorite.github.io)
+<table>
+	<tr><th>Title</th><th>Link</th></tr>
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->  
+</table>
+<br/>  
 
 ## Languages and Tools  
 <div align="center">  
@@ -45,17 +50,7 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
-</div>  
-
-
-
-### Blog  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
+</div>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
@@ -67,3 +62,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aphrosmeteorite&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
+
