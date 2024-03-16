@@ -29,15 +29,11 @@
 
 <br> ☀️ Keep a positive mindset   
 
+<br> Blog [@Laplace](https://aphrosmeteorite.github.io)
 <br/>  
 
 
-### Blog [@Laplace](https://aphrosmeteorite.github.io)
-<table>
-	<tr><th>Title</th><th>Link</th></tr>
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->  
-</table>
-<br/>  
+
 
 ## Languages and Tools  
 <div align="center">  
