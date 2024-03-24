@@ -29,7 +29,7 @@
 
 <br> ☀️ Keep a positive mindset   
 
-<br> Blog [@Laplace](https://aphrosmeteorite.github.io)
+<br> Blog [@Laplace](https://laplace825.github.io)
 <br/>  
 
 
