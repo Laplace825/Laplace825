@@ -3,7 +3,7 @@
 
 
 ### Welcome to my Github profile! OwO~  
-  
+This is my blog, and I sometimes upload some fun things.[@Laplace](https://www.blog.lap-lace.top)
   
 
 <a href="https://github.com/https://github.com/Aphrosmeteorite" target="_blank">
@@ -31,20 +31,33 @@
 
 <br/>  
 
-## Blog [@Laplace](https://laplace825.github.io)
-
 ## Languages and Tools  
 <div align="center">   
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="30" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" /></a> 
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="30" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="30" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" /></a>  
 </div>
+
+## Some Repos  
+
+<a href="https://github.com/laplace825/cpp-tiny-json">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=laplace825&repo=cpp-tiny-json" />
+</a>  
+<a href="https://github.com/laplace825/cpp-logger">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=laplace825&repo=cpp-logger" />
+</a>
+
+<a href="https://github.com/laplace825/yolov8-oracle-detect">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=laplace825&repo=yolov8-oracle-detect" />
+</a>
 
 ## Github Stats  
 
-[![Laplace825's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laplace825&theme=algolia&show_icons=true&?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laplace825&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/laplace825/"> 
+  <img align="center" width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Laplace825&theme=algolia&show_icons=true&?count_private=true?" />
+</a>
+<a href="https://github.com/laplace825/">
+  <img align="center" width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laplace825&layout=compact&theme=algolia&hide=html,scss,css,javascript" />
+</a>
