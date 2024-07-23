@@ -59,5 +59,5 @@ This is my blog, and I sometimes upload some fun things.[@Laplace](https://www.b
   <img align="center" width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Laplace825&theme=algolia&show_icons=true&?count_private=true?" />
 </a>
 <a href="https://github.com/laplace825/">
-  <img align="center" width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laplace825&layout=compact&theme=algolia&hide=html,scss,css,javascript" />
+  <img align="center" width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laplace825&layout=compact&theme=algolia&hide=html,scss,css,javascript,jupyter%20notebook" />
 </a>
