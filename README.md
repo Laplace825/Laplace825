@@ -40,7 +40,7 @@ This is my blog, and I sometimes upload some fun things.[@Laplace](https://www.b
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" /></a>  
 </div>
 
-## Some Repos  
+<!-- ## Some Repos  
 
 <a href="https://github.com/laplace825/cpp-tiny-json">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=laplace825&repo=cpp-tiny-json" />
@@ -52,6 +52,7 @@ This is my blog, and I sometimes upload some fun things.[@Laplace](https://www.b
 <a href="https://github.com/laplace825/yolov8-oracle-detect">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=laplace825&repo=yolov8-oracle-detect" />
 </a>
+-->
 
 ## Github Stats  
 
