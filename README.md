@@ -6,7 +6,7 @@
 This is my blog, and I sometimes upload some fun things.[@Laplace](https://www.blog.lap-lace.top)
   
 
-<a href="https://github.com/https://github.com/Aphrosmeteorite" target="_blank">
+<a href="https://github.com/https://github.com/laplace825" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
