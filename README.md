@@ -21,15 +21,10 @@ This is my blog, and I sometimes upload some fun things.[@Laplace](https://www.b
 
 
 ## Rapidfire  
-<img align="right" width="300px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
 
-<br> 🌱 I'm pursuing a Bachelor's degree in Computer Science and Engineering.
-
-<br> ◻️Wish to be a programmer  
-
-<br> ☀️ Keep a positive mindset   
-
-<br/>  
+◻️  🌱 I'm pursuing a Bachelor's degree in Computer Science and Engineering.  
+◻️  👨‍💻 Wish to be a programmer  
+◻️  ☀️ Keep a positive mindset
 
 ## Languages and Tools  
 [![My Skills](https://skillicons.dev/icons?i=cpp,rust,python,go,github,linux)](https://skillicons.dev)
