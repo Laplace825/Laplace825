@@ -17,15 +17,22 @@ This is my blog, and I sometimes upload some fun things.[@Laplace](https://www.b
 
 ## Rapidfire  
 
-- 🌱 I'm pursuing a Bachelor's degree in Computer Science and Engineering.
-- 👨‍💻 Interested IN
+- 👾 Pursuing a Bachelor's degree in Computer Science and Engineering ...
+- ✦ &nbsp; Interests ... 
   -  **DataBase System**
   -  **Distributed System**
-  -  **Machine Learning(Vision, Language)**
-  -  **PL**
+  -  **Machine Learning(Vision/Language Model)**
+  -  **PL** 
+- 🤤 Maybe future learn Godot, Astro, Vite ...
 
 ## Languages and Tools  
-[![My Skills](https://skillicons.dev/icons?i=cpp,rust,python,go,github,linux)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,rust,python,go,git,linux,arch,neovim" />
+  </a>
+</p>
+
 
 ## Github Stats  
 
