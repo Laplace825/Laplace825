@@ -1,11 +1,8 @@
 ## Hey 👋, I'm Laplace!  
 
-
-
 ### Welcome to my Github profile! OwO~  
 This is my blog, and I sometimes upload some fun things.[@Laplace](https://www.blog.lap-lace.top)
   
-
 <a href="https://github.com/https://github.com/laplace825" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
@@ -18,42 +15,31 @@ This is my blog, and I sometimes upload some fun things.[@Laplace](https://www.b
 	<br>
 </div>
 
-
-
 ## Rapidfire  
 
-◻️  🌱 I'm pursuing a Bachelor's degree in Computer Science and Engineering.  
-◻️  👨‍💻 Wish to be a programmer  
-◻️  ☀️ Keep a positive mindset
+- 🌱 I'm pursuing a Bachelor's degree in Computer Science and Engineering.
+- 👨‍💻 Interested IN
+  -  **DataBase System**
+  -  **Distributed System**
+  -  **Machine Learning(Vision, Language)**
+  -  **PL**
 
 ## Languages and Tools  
 [![My Skills](https://skillicons.dev/icons?i=cpp,rust,python,go,github,linux)](https://skillicons.dev)
 
-<!-- ## Some Repos  
-
-<a href="https://github.com/laplace825/cpp-tiny-json">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=laplace825&repo=cpp-tiny-json" />
-</a>  
-<a href="https://github.com/laplace825/cpp-logger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=laplace825&repo=cpp-logger" />
-</a>
-
-<a href="https://github.com/laplace825/yolov8-oracle-detect">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=laplace825&repo=yolov8-oracle-detect" />
-</a>
--->
-
 ## Github Stats  
-
-<a href="https://github.com/laplace825/"> 
-  <img wide="50%" height=200px src="https://github-readme-stats.vercel.app/api?username=Laplace825&theme=algolia&show_icons=true&?count_private=true?" />
-</a>
-<a href="https://github.com/laplace825/">
-  <img wide="50%" height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laplace825&layout=compact&theme=algolia&hide=html,scss,css,javascript,jupyter%20notebook,makefile,shell" />
-</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laplace825/laplace825/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laplace825/laplace825/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/laplace825/laplace825/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div display="flex" gap=20px justify-content="center">
+<a href="https://github.com/laplace825/"> 
+  <img wide="50%" height=200px display="block" src="https://github-readme-stats.vercel.app/api?username=Laplace825&theme=algolia&show_icons=true&?count_private=true?" />
+</a>
+<a href="https://github.com/laplace825/">
+  <img wide="50%" height=200px display="block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laplace825&layout=compact&theme=algolia&hide=html,scss,css,javascript,jupyter%20notebook,makefile,shell" />
+</a>
+</div>
