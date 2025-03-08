@@ -23,7 +23,7 @@ This is my blog, and I sometimes upload some fun things.[@Laplace](https://www.b
   -  **Distributed System**
   -  **Machine Learning(Vision/Language Model)**
   -  **PL** 
-- 🤤 Maybe future learn Godot, Astro, Vite ...
+- 🤤 Maybe future learn Ziglang, Godot, Astro, Vite ...
 
 ## Languages and Tools  
 
