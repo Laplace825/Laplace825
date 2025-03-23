@@ -22,6 +22,7 @@ This is my blog, and I sometimes upload some fun things.[@Laplace](https://www.b
   -  **DataBase System**
   -  **Distributed System**
   -  **Machine Learning(Vision/Language Model)**
+  -  **WebAssembly**
   -  **PL** 
 - 🤤 Maybe future learn Ziglang, Godot, Astro, Vite ...
 
