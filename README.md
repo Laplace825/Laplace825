@@ -19,10 +19,9 @@ This is my blog, and I sometimes upload some fun things.[@Laplace](https://www.b
 
 - 👾 Pursuing a Bachelor's degree in Computer Science and Engineering ...
 - ✦ &nbsp; Interests ... 
-  -  **DataBase System**
-  -  **Distributed System**
-  -  **Machine Learning(Vision/Language Model)**
-  -  **WebAssembly**
+  -  **System** (Compile/Distributed)
+  -  **MLSys**
+  -  **HPC**
   -  **PL** 
 - 🤤 Maybe future learn Ziglang, Godot, Astro, Vite ...
 
