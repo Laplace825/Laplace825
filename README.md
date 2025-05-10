@@ -19,9 +19,9 @@ This is my blog, and I sometimes upload some fun things.[@Laplace](https://www.b
 
 - 👾 Pursuing a Bachelor's degree in Computer Science and Engineering ...
 - ✦ &nbsp; Interests ... 
-  -  **System** (Compile/Distributed)
+  -  **ML System**
   -  **HPC**
-  -  **PL** 
+  -  **DL Compiler** 
 - 🤤 Maybe future learn Ziglang, Godot, Astro, Vite ...
 
 ## Languages and Tools  
