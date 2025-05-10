@@ -18,10 +18,14 @@ This is my blog, and I sometimes upload some fun things.[@Laplace](https://www.b
 ## Rapidfire  
 
 - 👾 Pursuing a Bachelor's degree in Computer Science and Engineering ...
+- ★ &nbsp;Performance & Efficiency Matters !!!
 - ✦ &nbsp; Interests ... 
   -  **ML System**
   -  **HPC**
-  -  **DL Compiler** 
+  -  **DL Compiler**
+- ✦ &nbsp; Learning ...
+  - CUDA
+  - LLVM 
 - 🤤 Maybe future learn Ziglang, Godot, Astro, Vite ...
 
 ## Languages and Tools  
