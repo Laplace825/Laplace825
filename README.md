@@ -22,10 +22,9 @@ This is my blog, and I sometimes upload some fun things.[@Laplace](https://www.b
 - ✦ &nbsp; Interests ... 
   -  **ML System**
   -  **HPC**
-  -  **DL Compiler**
 - ✦ &nbsp; Learning ...
   - CUDA
-  - LLVM 
+  - LLMs/RL/Agent
 - 🤤 Maybe future learn Ziglang, Godot, Astro, Vite ...
 
 ## Languages and Tools  
