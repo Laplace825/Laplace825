@@ -3,10 +3,15 @@
 ### Welcome to my Github profile! OwO~  
 This is my blog, and I sometimes upload some fun things.[@Laplace](https://www.blog.lap-lace.top)
   
-<a href="https://github.com/https://github.com/laplace825" target="_blank">
+<a href="https://github.com/laplace825" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
+</a>
+
+<a href="https://t.me/laplace_he" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a>
+
+
 <br/>  
 
 <div align="center">
@@ -17,14 +22,8 @@ This is my blog, and I sometimes upload some fun things.[@Laplace](https://www.b
 
 ## Rapidfire  
 
-- 👾 Pursuing a Bachelor's degree in Computer Science and Engineering ...
-- ★ &nbsp;Performance & Efficiency Matters !!!
-- ✦ &nbsp; Interests ... 
-  -  **ML System**
-  -  **HPC**
-- ✦ &nbsp; Learning ...
-  - CUDA
-  - LLMs/RL/Agent
+- 👾 I'm currently pursuing B.S. (CS) @ SHU and in the future I'll pursue M.Eng. (SE) @ NJU.
+- 🤔 I'll focus on AI x Telecom track.
 - 🤤 Maybe future learn Ziglang, Godot, Astro, Vite ...
 
 ## Languages and Tools  
