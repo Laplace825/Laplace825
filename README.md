@@ -43,11 +43,11 @@ This is my blog, and I sometimes upload some fun things.[@Laplace](https://www.b
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/laplace825/laplace825/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div display="flex" gap=20px justify-content="center">
+<!-- <div display="flex" gap=20px justify-content="center">
 <a href="https://github.com/laplace825/"> 
   <img wide="40%" height=180px display="block" src="https://github-readme-stats.vercel.app/api?username=Laplace825&theme=algolia&show_icons=true&?count_private=true?" />
 </a>
 <a href="https://github.com/laplace825/">
   <img wide="40%" height=180px display="block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laplace825&layout=compact&theme=algolia&hide=html,scss,css,javascript,jupyter%20notebook,makefile,shell" />
 </a>
-</div>
+</div> -->
